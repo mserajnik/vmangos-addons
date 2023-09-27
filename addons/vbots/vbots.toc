@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: VBots v2
+## Notes: VMaNGOS bot control panel with BG fill system, template management, temporary bot support, and GM mode improvements
+## Author: minzi90
+## DefaultState: Enabled
+## Version: 2.1.1-beta
+## SavedVariables: VBotsDB
+
+vbots.lua
+vbots.xml
